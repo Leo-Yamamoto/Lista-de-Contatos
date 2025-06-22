@@ -9,19 +9,19 @@ Python 3 ou superior instalado.
 
 ## Funcionalidades
 
-— Adicionar, salvar e apresentar os contatos salvos.
-— Cria automaticamente um arquivo para salvar os contatos.
-— Adiciona contatos com nome, telefone e e-mail.
+- Adicionar, salvar e apresentar os contatos salvos.
+- Cria automaticamente um arquivo para salvar os contatos.
+- Adiciona contatos com nome, telefone e e-mail.
 
 ## como usar
 
-— Baixe o repositório.
-— instale o Python.
-— Execute o arquivo principal:
+- Baixe o repositório.
+- instale o Python.
+- Execute o arquivo principal:
 
-´´´ bash
+```bash
 python main.py
-´´´
+```
 
 ## Licensa
 
