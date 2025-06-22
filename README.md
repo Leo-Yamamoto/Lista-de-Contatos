@@ -20,7 +20,8 @@ Python 3 ou superior instalado.
 — Execute o arquivo principal:
 
 '''bash
-sistema.py
+python main.py
+'''
 
 ## Licensa
 

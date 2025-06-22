@@ -1,4 +1,4 @@
-from Utilitarios import *
+from util.tools import *
 
 arq = 'contatos.txt'
 try:
