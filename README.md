@@ -19,9 +19,9 @@ Python 3 ou superior instalado.
 — instale o Python.
 — Execute o arquivo principal:
 
-'''bash
+´´´ bash
 python main.py
-'''
+´´´
 
 ## Licensa
 
