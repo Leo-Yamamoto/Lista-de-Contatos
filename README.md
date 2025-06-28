@@ -5,7 +5,10 @@ Exercício para praticar estruturas de controle, manipulação de arquivos e fun
 
 ## Pré-requisitos
 
-Python 3 ou superior instalado.
+- Python 3 ou superior instalado.
+- UV pakage manager instalado.
+Windows: [powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"]
+Linux: [curl -LsSf https://astral.sh/uv/install.sh | sh]
 
 ## Funcionalidades
 
@@ -13,16 +16,27 @@ Python 3 ou superior instalado.
 - Cria automaticamente um arquivo para salvar os contatos.
 - Adiciona contatos com nome, telefone e e-mail.
 
-## como usar
+## Como usar
 
 - Baixe o repositório.
-- instale o Python.
+- Instale o Python.
+- Instale o UV
 - Execute o arquivo principal:
 
 ```bash
-python main.py
+uv run --directory src python main.py
 ```
+
+## Dependências
+
+- Para adicionar dependências: $ uv add (dependência)
+- Para adicionar dependências de desenvolvimento: $ uv add --dev (dependência)
 
 ## Licensa
 
-Licensa livre, sem restrições de nenhuma natureza.
+Licensa livre.
+
+## Autor
+
+Desenvolvido por Leonardo Yamamoto.
+Iniciante em Python e aprendendo com prática!
