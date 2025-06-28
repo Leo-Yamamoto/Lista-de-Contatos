@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/main.py
+src/lista_de_contatos.egg-info/PKG-INFO
+src/lista_de_contatos.egg-info/SOURCES.txt
+src/lista_de_contatos.egg-info/dependency_links.txt
+src/lista_de_contatos.egg-info/top_level.txt
+src/util/__init__.py
+src/util/tools.py

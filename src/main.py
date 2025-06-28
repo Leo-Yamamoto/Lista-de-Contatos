@@ -8,10 +8,11 @@ def mainlist():
         open('contatos.txt', 'at+').close()
         print('arquivo contatos foi criado.')
     else:
-        print(f'arquivo {arq} encontrado.')
+        print(f'Arquivo {arq} encontrado.')
+
 
     while True:
-        opt = menu(['Adicionar contato', 'apresentar contatos salvos', 'sair'])
+        opt = menu(['Adicionar contato', 'Apresentar contatos salvos', 'Sair'])
         if opt == 1:
             titulo('NOVO CONTATO')
             nome = str(input('Nome: '))
