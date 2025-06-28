@@ -21,6 +21,12 @@ Linux: [curl -LsSf https://astral.sh/uv/install.sh | sh]
 - Baixe o repositório.
 - Instale o Python.
 - Instale o UV
+- Sincronize a versão no terminal, executando
+
+```bash
+ uv sync
+ ```
+
 - Execute o arquivo principal:
 
 ```bash
